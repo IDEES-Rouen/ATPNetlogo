@@ -1,3 +1,4 @@
 git clone "URL" : cloner en local le répertoire
 git status : savoir quels fichiers sont suivis
-git add "nom_de_fichier" : suivre un fichier  
+git add "nom_de_fichier" : suivre un fichier
+git commit "nom_du_fichier": synchroniser le fichier en local.  
